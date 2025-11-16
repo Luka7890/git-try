@@ -1,2 +1,2 @@
 # git-try
-just learnin
+just learnin 5
